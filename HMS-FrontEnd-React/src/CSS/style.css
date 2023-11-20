@@ -1,0 +1,33 @@
+.header, .footer {
+    width:"100%";
+    background-color: aqua;
+}
+
+.main {
+    width: 150px;
+    margin-inline: 25px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    background-color: darksalmon;
+    border-radius: 10px;
+}
+
+table {
+    margin: auto;
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+}
+th {
+    border: blue 1px double;
+    
+}
+td {
+    border-color: blue;
+    border-width: 1px;
+    border-style: dashed;
+}

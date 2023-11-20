@@ -1,0 +1,15 @@
+table {
+    margin: auto;
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+}
+th {
+    border: blue 1px double;
+    
+}
+td {
+    border-color: blue;
+    border-width: 1px;
+    border-style: dashed;
+}
